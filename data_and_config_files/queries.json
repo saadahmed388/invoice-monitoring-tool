@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Principal Chassis Invoices",
+        "sql": "select count(*) from siebel.cx_tob_invoice where x_mf_type = 'Chassis' AND CREATED >= SYSDATE -2",
+        "date_added_on": "2026-01-12 21:03:18",
+        "date_modified_on": "2026-01-31 05:17:02",
+        "class": "TOB"
+    },
+    {
+        "name": "Principal Recycle Invoices",
+        "sql": "select count(*) AS B from siebel.cx_tob_invoice where x_mf_type = 'Recycle' AND CREATED >= SYSDATE -2",
+        "date_added_on": "2026-01-12 21:03:53",
+        "date_modified_on": "2026-01-31 05:17:11",
+        "class": "TOB"
+    },
+    {
+        "name": "Tax Invoices for Chassis Orders (Non Zero Amount)",
+        "sql": "select count(*)from siebel.cx_tob_recon where line_typ = 'Tax' and created >=sysdate-2",
+        "date_added_on": "2026-01-12 21:05:1",
+        "date_modified_on": "2026-01-31 05:17:17",
+        "class": "TOB"
+    },
+    {
+        "name": "Principal Chassis Invoices with Zero Amount",
+        "sql": "select count(*) from siebel.cx_tob_recon where inv_amt = 0 and created >=sysdate-2",
+        "date_added_on": "2026-01-12 21:06:19",
+        "date_modified_on": "2026-01-31 05:17:36",
+        "class": "TOB"
+    },
+    {
+        "name": "Invoices Eligible for JV creation",
+        "sql": "select A.T + B.T - C.T AS \"Total\" from (select count(*) AS T from siebel.cx_tob_invoice where x_mf_type = 'Chassis' AND CREATED >= SYSDATE -2) A,\n(select count(*) AS T from siebel.cx_tob_recon where line_typ = 'Tax' and created >=sysdate-2) B,\n(select count(*) AS T from siebel.cx_tob_recon where inv_amt = 0 and created >=sysdate-2) C",
+        "date_added_on": "2026-01-12 21:09:35",
+        "date_modified_on": "2026-01-31 05:17:58",
+        "class": "TOB"
+    },
+    {
+        "name": "Count of Chassis JVs created",
+        "sql": "select count(*) from siebel.cx_jrnl_vchr where x_order_type like 'TOB%' and created >=sysdate-2",
+        "date_added_on": "2026-01-12 21:10:55",
+        "date_modified_on": "2026-01-31 05:18:07",
+        "class": "TOB"
+    },
+    {
+        "name": "Count of Recycle JVs created",
+        "sql": "select count(*) AS A from siebel.cx_jrnl_vchr where x_order_type like 'Recycle%' and created >=sysdate-2",
+        "date_added_on": "2026-01-12 21:15:52",
+        "date_modified_on": "2026-01-31 05:18:16",
+        "class": "TOB"
+    }
+]

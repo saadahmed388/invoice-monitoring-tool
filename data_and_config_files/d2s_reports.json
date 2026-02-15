@@ -1,0 +1,1048 @@
+{
+    "2026": {
+        "January": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "February": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "March": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "April": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "May": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "June": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "July": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "August": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "September": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "October": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "November": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        },
+        "December": {
+            "duefor": "",
+            "status": "Verification Due",
+            "timestamp": "NA",
+            "report": {
+                "Okayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Aomori": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Hakodate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Iwate": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Shikoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Okinawa": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Wakayama": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                },
+                "Chugoku": {
+                    "DT01": "NA",
+                    "DT27": "NA",
+                    "ChassisInvs": "NA",
+                    "ChassisTaxInvs": "NA",
+                    "ChassisZeroInvs": "NA",
+                    "ChassisJVs": "NA",
+                    "RecycleInvs": "NA",
+                    "RecycleJVs": "NA"
+                }
+            }
+        }
+    }
+}
